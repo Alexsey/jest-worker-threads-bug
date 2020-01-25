@@ -1,0 +1,7 @@
+{
+  "name": "jest-worker-threads-bug",
+  "version": "1.0.0",
+  "dependencies": {
+    "jest": "^24.9.0"
+  }
+}
